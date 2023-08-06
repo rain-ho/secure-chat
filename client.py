@@ -1,4 +1,3 @@
-# client1.py
 import socket
 import threading
 import sys

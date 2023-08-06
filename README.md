@@ -27,8 +27,8 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-* [Usage](#usage)
-  * [Message Censorship](#message-censorship)
+  * [Usage](#usage)
+* [Message Censorship](#message-censorship)
 * [Contributing](#contributing)
 * [Authors](#authors)
 
