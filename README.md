@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/rain-ho/eigenfaces">
-    <img src="images/preview.png">
+    <img src="images/preview.png" width = 300>
   </a>
   <h3 align="center">Python Secure Chat
 </h3>
